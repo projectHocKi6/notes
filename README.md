@@ -1,3 +1,3 @@
-# Notes App
 
-This is a note-taking app for learning Android development.
+
+This is a note-taking app written in Kotlin using MVVM architecture.
